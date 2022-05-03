@@ -5,6 +5,7 @@
 - Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 - Big-O gösterimini yazınız.nız.
 
+**CEVAP:**
 ```
 1) [16,21,11][8,12,22]
 2) [16,21] [11] [8,12] [22]
